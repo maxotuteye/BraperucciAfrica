@@ -1,0 +1,6 @@
+.td-header-wrap,
+.td-mobile-sub-footer-wrap,
+.td-mobile-footer-wrap,
+.td-scroll-up.td-scroll-up-visible {
+    display: none !important;
+  }

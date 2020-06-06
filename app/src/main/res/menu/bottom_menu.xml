@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/fashion"
+        android:icon="@drawable/watch"
+        android:title="@string/fashion"/>
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/events"
+        android:title="@string/events"/>
+    <item
+        android:id="@+id/weddings"
+        android:icon="@drawable/wedding"
+        android:title="@string/weddings"/>
+    <item
+        android:id="@+id/lookbooks"
+        android:icon="@drawable/images"
+        android:title="@string/lookbooks"/>
+</menu>

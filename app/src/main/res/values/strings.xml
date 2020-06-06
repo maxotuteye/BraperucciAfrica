@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Braperucci Africa</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No internet</string>
+    <string name="home">Home</string>
+    <string name="fashion">Fashion</string>
+    <string name="events">Events</string>
+    <string name="weddings">Weddings</string>
+    <string name="lookbooks">Lookbooks</string>
+</resources>
